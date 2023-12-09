@@ -139,3 +139,15 @@ body {
     margin-left: auto;
     margin-right: auto;
 }
+
+.footer{
+    display: flex;
+    height: 300px;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.footerp{
+    margin-bottom: 10px;
+}
